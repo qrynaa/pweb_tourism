@@ -1,4 +1,4 @@
-*{
+    *{
     margin: 0 0 10px;
     padding: 0;
     font-family: "montserrat",sans-serif;
@@ -288,9 +288,10 @@ h1{
     background: #fff;
     max-width: 960px;
     margin: 0 auto;
-    padding: 20px;
+    /*padding: 20px;*/
     position: absolute;
-    top: 950px;
+    top: 1200px;
+    left: 13%;
 }
 
 .wrapper1::after{
